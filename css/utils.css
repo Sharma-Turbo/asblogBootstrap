@@ -1,0 +1,69 @@
+.nav{
+    position: sticky;
+        top: 0;
+}
+.textdec{
+    text-decoration: none;
+    color: yellow;
+    /* background-color: black; */
+}
+.textdec:hover{
+    color: black;
+}
+.width{
+    height: 15vh;
+    background-color: black;
+}
+
+.bgbutton{
+    background-color: #292b2c;
+    border-radius: 20px;
+}
+
+.stick{
+    position: sticky;
+    top: 0;
+    z-index: 2;
+}
+.bd{
+    border: 1px solid black;
+}
+
+.cold{
+    
+    color: aqua;
+ 
+}
+.btn-size{
+    width: 52%;
+}
+
+.sha{
+    /* border: 1px solid black; */
+    /* border: 1px solid; */
+    padding: 10px;  
+    margin: 20px;
+    box-shadow:5px 5px 10px #292b2c inset;
+    
+}
+.sha:hover{
+    /* border: 1px solid black; */
+    /* border: 1px solid; */
+    padding: 10px;  
+    margin: 20px;
+    box-shadow:5px 5px 10px #f0ad4e inset;   
+}
+
+.text-justify{
+    text-align: justify;
+}
+
+
+
+.aa {
+    box-sizing: border-box;
+    position: fixed;
+    bottom: 10px;
+    right: 3px;
+    z-index: 6;
+}
